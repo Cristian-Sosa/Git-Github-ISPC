@@ -11,10 +11,18 @@ La metodología Scrum se basa en la entrega de un producto, sin terminar, con ca
 
 Para ello nace un concepto clave, el Sprint, que es un bloque de tiempo donde el equipo se compromete a entregar un producto iterable con características previamente acordadas 
 
+> Ejemplo: 
+> 
+> Realizar una barra de navegación responsive, en un tiempo de 12 días, y deberá cumplir con una lista de requerimientos acordada 
+
 ## Valores de Scrum
 
-### Sprint
-
+Scrum incorpora los valores de: 
+- compromiso
+- coraje
+- foco 
+- apertura
+- respeto
 
 # Roles
 <!-- Rol Product Owner -->
