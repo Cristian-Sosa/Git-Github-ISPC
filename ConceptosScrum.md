@@ -2,7 +2,6 @@
 
 ![Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales](./ispc.png)
 
-
 ## ¿Que es Scrum?
 
 Scrum es un framework Agile para el desarrollo y el mantenimiento de productos complejos en entornos adaptables. Dividiendolos en pequeñas versiones, entregables al cliente, para recibir feedback
