@@ -41,6 +41,8 @@ Es importante resaltar que al tratarse de el propietario del producto sus decisi
 
 <!-- Rol Scrum Master -->
 
+### Scrum Master
+
 Es uno de los roles dentro del equipo que se asegura de que la metodología Scrum se desarrolle correctamente. Es un líder al servicio de un equipo el cual elimina impedimentos, ayuda al equipo de desarrollo a ser más productivo y enseña al Product Owner en la gestión del product backlog.
 Sus funciones son:
 
