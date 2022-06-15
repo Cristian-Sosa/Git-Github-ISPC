@@ -25,7 +25,15 @@ Scrum incorpora los valores de:
 
 # Roles
 <!-- Rol Product Owner -->
+### Product Owner
 
+El propietario del producto es el responsable de _gestionar efectivamente_ la Pila de Producto (Product Backlog), lo que incluye:
+- Desarrollar y comunicar el objetivo m del producto (Meta del producto).
+- Crear y comunicar cada uno de los articulos de la pila de producto.
+- Ordenar los articulos de la pila de producto siguiendo alguna prioridad.
+- Asegurar que la pila de producto sea transparente, visible y comprensible.
+
+Es importante resaltar que al tratarse de el propietario del producto sus decisiones deben respetarse; estas deben ser reflejadas en el contenido y orden en la pila de producto,como asi tambien en el incremento y revision del Sprint.
 
 <!-- Rol Scrum Master -->
 
