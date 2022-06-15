@@ -8,26 +8,30 @@ Scrum es un framework Agile para el desarrollo y el mantenimiento de productos c
 
 La metodología Scrum se basa en la entrega de un producto, sin terminar, con características funcionales, al cual se le va añadiendo más en la siguiente iteración.
 
-Para ello nace un concepto clave, el Sprint, que es un bloque de tiempo donde el equipo se compromete a entregar un producto iterable con características previamente acordadas 
+Para ello nace un concepto clave, el Sprint, que es un bloque de tiempo donde el equipo se compromete a entregar un producto iterable con características previamente acordadas
 
-> Ejemplo: 
-> 
-> Realizar una barra de navegación responsive, en un tiempo de 12 días, y deberá cumplir con una lista de requerimientos acordada 
+> Ejemplo:
+>
+> Realizar una barra de navegación responsive, en un tiempo de 12 días, y deberá cumplir con una lista de requerimientos acordada
 
 ## Valores de Scrum
 
-Scrum incorpora los valores de: 
+Scrum incorpora los valores de:
+
 - compromiso
 - coraje
-- foco 
+- foco
 - apertura
 - respeto
 
 # Roles
+
 <!-- Rol Product Owner -->
+
 ### Product Owner
 
 El propietario del producto es el responsable de _gestionar efectivamente_ la Pila de Producto (Product Backlog), lo que incluye:
+
 - Desarrollar y comunicar el objetivo m del producto (Meta del producto).
 - Crear y comunicar cada uno de los articulos de la pila de producto.
 - Ordenar los articulos de la pila de producto siguiendo alguna prioridad.
@@ -37,35 +41,34 @@ Es importante resaltar que al tratarse de el propietario del producto sus decisi
 
 <!-- Rol Scrum Master -->
 
+Es uno de los roles dentro del equipo que se asegura de que la metodología Scrum se desarrolle correctamente. Es un líder al servicio de un equipo el cual elimina impedimentos, ayuda al equipo de desarrollo a ser más productivo y enseña al Product Owner en la gestión del product backlog.
+Sus funciones son:
 
+1. Organizar las reuniones de planificación de sprints.
+2. Organizar las reuniones diarias.
+3. Eliminar obstáculos.
+4. Ayudar con los trabajos pendientes.
+5. Realizar análisis retrospectivos.
 <!-- Rol Scrum Team -->
 
-
-
 # Ceremonia
+
 <!-- Ceremonia Sprint Planning-->
 
-
 <!-- Ceremonia Daily Scrum-->
 
-
 <!-- Ceremonia Daily Scrum-->
-
 
 <!-- Ceremonia Sprint Review-->
 
-
 <!-- Ceremonia Sprint Retrospective-->
 
-
 # Artefactos
-<!-- Artefacto Product Backlog -->
 
+<!-- Artefacto Product Backlog -->
 
 <!-- Artefacto Sprint Backlog -->
 
-
 <!-- Artefacto Impediments Backlog -->
-
 
 <!-- Artefacto Burndown Chart -->
