@@ -57,7 +57,10 @@ Sus funciones son:
 
 <!-- Ceremonia Sprint Planning-->
 
-<!-- Ceremonia Daily Scrum-->
+### Daily Scrum Meeting
+ Es una reunión periódica. Se produce diariamente, y tiene un máximo de
+20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
+qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria
 
 <!-- Ceremonia Daily Scrum-->
 
