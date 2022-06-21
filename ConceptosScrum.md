@@ -44,13 +44,14 @@ Es importante resaltar que al tratarse de el propietario del producto sus decisi
 ### Scrum Master
 
 Es uno de los roles dentro del equipo que se asegura de que la metodología Scrum se desarrolle correctamente. Es un líder al servicio de un equipo el cual elimina impedimentos, ayuda al equipo de desarrollo a ser más productivo y enseña al Product Owner en la gestión del product backlog.
+
 Sus funciones son:
 
-1. Organizar las reuniones de planificación de sprints.
-2. Organizar las reuniones diarias.
-3. Eliminar obstáculos.
-4. Ayudar con los trabajos pendientes.
-5. Realizar análisis retrospectivos.
+- Organizar las reuniones de planificación de sprints.
+- Organizar las reuniones diarias.
+- Eliminar obstáculos.
+- Ayudar con los trabajos pendientes.
+- Realizar análisis retrospectivos.
 <!-- Rol Scrum Team -->
 
 # Ceremonia
@@ -58,7 +59,8 @@ Sus funciones son:
 <!-- Ceremonia Sprint Planning-->
 
 ### Daily Scrum Meeting
- Es una reunión periódica. Se produce diariamente, y tiene un máximo de
+
+Es una reunión periódica. Se produce diariamente, y tiene un máximo de
 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
 qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria
 
