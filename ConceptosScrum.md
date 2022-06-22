@@ -67,6 +67,19 @@ qué problemas se han encontrado, esto a fines de encontrar soluciones en la dia
 <!-- Ceremonia Daily Scrum-->
 
 <!-- Ceremonia Sprint Review-->
+### Ceremonia Sprint Review
+
+Se produce al finalizar el Sprint y
+tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
+Product Owner.
+
+- El equipo presenta la funcionalidad terminada al Product Owner y demás
+stakeholders.
+- Los miembros del equipo responden preguntas de los stakeholders en relación a la
+demostración, y toman nota de los cambios propuestos.
+- Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y
+prioridad de esos cambios.
+
 
 <!-- Ceremonia Sprint Retrospective-->
 
