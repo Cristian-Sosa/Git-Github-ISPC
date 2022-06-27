@@ -90,6 +90,9 @@ prioridad de esos cambios.
 <!-- Artefacto Sprint Backlog -->
 
 <!-- Artefacto Impediments Backlog -->
+### Impediments Backlog
+
+Es una lista de impedimentos, similar al product backlog, que se van detectando durante el Sprint. El Scrum Master es responsable de disolver estos impedimentos encontrados
 
 <!-- Artefacto Burndown Chart -->
 ### Burndown Chart
