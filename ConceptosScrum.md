@@ -92,3 +92,6 @@ prioridad de esos cambios.
 <!-- Artefacto Impediments Backlog -->
 
 <!-- Artefacto Burndown Chart -->
+### Burndown Chart
+
+Es un gráfico que ayuda a motorizar el progreso del equipo, gestionar riesgos y estipular si se podrá cumplir o no un sprint. Se realiza un histograma con un trazo esperado de tareas a completar, y sobre este se coloca el avance
